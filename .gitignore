@@ -1,0 +1,8 @@
+# Data files are not committed (see data/README.md)
+data/*.csv
+data/*.parquet
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
